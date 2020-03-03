@@ -1,4 +1,4 @@
 def call()
 {
-  println("hello")
+  println("hello, vars/hello.groovy call")
 }
