@@ -6,6 +6,9 @@
 // 创建库里的类
 def tools = new ihaiu.develops.tools()
 
+// 运行库里定义的公共方法
+hello()
+
 String workspace="D:/Jenkins/GameJJSG/"
 pipeline 
 {
